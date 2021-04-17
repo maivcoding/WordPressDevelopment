@@ -1,4 +1,4 @@
-## MaivCoding WordPress Development
+## MaivCoding WordPress Development part 1
 
 
 
@@ -20,6 +20,6 @@
 
 
 ### DB info
-db name = maivcoding_wpdb
-db user = root
+db name = maivcoding_wpdb   
+db user = root   
 db pass = 

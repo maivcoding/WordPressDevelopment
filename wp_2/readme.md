@@ -1,4 +1,4 @@
-## MaivCoding WordPress Development
+## MaivCoding WordPress Development part 2
 
 
 
@@ -17,8 +17,4 @@
 2. Download WAMP ( for win only, use MAMP for Mac) from https://sourceforge.net/projects/wampserver/files/
 3. Visual Studio Code from https://code.visualstudio.com/download
 
-
-### DB info
-db name = maivcoding_wpdb2
-db user = root
-db pass = 
+ 
