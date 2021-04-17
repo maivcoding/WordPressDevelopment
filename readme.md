@@ -1,4 +1,4 @@
-### WordPress Developemnt by MaivCoding
+## WordPress Development by MaivCoding
 
 
 - Dev tutorials to learn WP development
@@ -11,8 +11,8 @@
 (HTML,CSS,SASS,PHP,JavaScript,node.js,json,Ajax,MySQL)
 
 
-please consider subscribing to my Youtube channel as this will help me create more videos and better quality 
+Please consider subscribing to my Youtube channel as this will help me create more videos and better quality 
 content. Write your comments in youtube videos and say hello to my email.
 
-YouTube  https://www.youtube.com/channel/UCZjDhdvDcWt36yRS932aGCg
+YouTube  https://www.youtube.com/channel/UCZjDhdvDcWt36yRS932aGCg   
 Email    coder@maivcoding.com 
